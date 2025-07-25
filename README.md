@@ -33,8 +33,8 @@ Provide the information requested below:
 
 - Last name: Xie
 - First (or preferred) name: Yuxuan
-- Favorite food: white cut chicken
-- Favorite recent Netflix movie or show: Black Friday
+- Favorite food: Seafood risotto
+- Favorite recent Netflix movie or show: Charlotte the Detective
 
 ---
 
