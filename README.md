@@ -35,7 +35,7 @@ Provide the information requested below:
 - First (or preferred) name: Yuxuan
 - Favorite food: Seafood risotto
 - Favorite recent Netflix movie or show: Charlotte the Detective
-
+ggggg
 ---
 
 If you have any problems with this practice assignment, take screenshots and post them to <https://piazza.com/ucsd/summer2025/rady499>.
